@@ -1,0 +1,27 @@
+- class_name: Links
+  class_desc: Something Useful
+  link_list:
+    - name: Hexo Usage
+      link: https://hexo.io/zh-cn/docs/
+      avatar: https://github.com/Monaxi/Mona-study/blob/main/blog/hexo.png?raw=true
+      descr: hexo用法
+    - name: Hexo Theme
+      link: https://hexo.io/themes/
+      avatar: https://github.com/Monaxi/Mona-study/blob/main/blog/hexo.png?raw=true
+      descr: hexo好看的主题
+
+- class_name: Webs
+  class_desc: Frequently used webs
+  link_list:
+    - name: Youtube
+      link: https://www.youtube.com/
+      avatar: https://github.com/Monaxi/Mona-study/blob/main/blog/Youtube-fill.png?raw=true
+      descr: 油管
+    - name: Weibo
+      link: https://www.weibo.com/
+      avatar: https://github.com/Monaxi/Mona-study/blob/main/blog/weibo.png?raw=true
+      descr: 新浪微博
+    - name: Twitter
+      link: https://twitter.com/
+      avatar: https://github.com/Monaxi/Mona-study/blob/main/blog/Twitter.png?raw=true
+      descr: 推特
